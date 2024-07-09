@@ -1,4 +1,9 @@
-## Hi there 👋
+## About me!
+**🎮 Passionate Game Tester | 🕹️ Bug Hunter | 💻 Working at Games2win India Private Limited**
+
+👋 Hi there! I'm Sanath Godbole, a passionate and dedicated Game Tester with a keen eye for detail and a love for gaming. I specialize in identifying, documenting, and helping to fix bugs to ensure a smooth and enjoyable gaming experience for all players. With experience in Mobile & PC platform, I am committed to delivering high-quality results.
+
+
 
 <!--
 **SanathGodbole/SanathGodbole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
